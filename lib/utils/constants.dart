@@ -1,0 +1,13 @@
+// final String APP_SCREEN = 'app';
+// final String APP_BAR = 'app_bar';
+// final String LOGIN = 'login';
+// final String LOGIN_EMAIL = 'login_email';
+// final String LOGIN_FACEBOOK = 'login_facebook';
+// final String LOGIN_OTHER = 'login_other';
+// final String FORGOT_PASSWORD = 'forgot_password';
+// final String RESTORE_PASSWORD = 'restore_password';
+// final String DANCER_PROFILE = 'dancer_profile_screen';
+// final String REG_FORM = 'reg_form';
+// final String DATE_PICKER = 'date_picker';
+// final String INSTRUCTOR_PROFILE = 'instructor_profile';
+// final String USER_TYPE = 'user_type';
